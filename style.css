@@ -31,3 +31,17 @@ a{ color:#8088ff;
    background-color: #b8c4f5;
    color: white;
 }
+
+img {
+   border-color: cornflowerblue;
+   border-width: 5px;
+   border-style: solid;
+   border-radius: 10%;
+}
+
+a:hover {
+  color: aliceblue;
+}
+
+
+}
